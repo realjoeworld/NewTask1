@@ -1,0 +1,22 @@
+### IntelliJ IDEA ###
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+### Kotlin & Build Tools ###
+.kotlin
+build/
+.gradle/
+
+### Local Configuration & Secrets ###
+local.properties
+.env
+.env.local
+*.log
+
+### Other Environments & OS ###
+.vscode/
+.DS_Store
+Thumbs.db
